@@ -115,12 +115,12 @@ private static NotesRepository.Note publicNote(NotesRepository.Note note) {
 
 **Dependency-Check (SCA).** Проверено 27 зависимостей, найдено 0 уязвимостей.
 
-> **Место для скриншота Dependency-Check из GitHub Actions.**
+![Отчёт Dependency-Check](.github/images/dependency_check.png)
 
 **SpotBugs (SAST).** Проверка прошла. Все 6 интеграционных тестов прошли.
 
-> **Место для скриншота SpotBugs из GitHub Actions.**
+![Отчёт SpotBugs](.github/images/spotbugs.png)
 
 ### Последний успешный запуск
 
-[GitHub Actions — Java security checks]
+[GitHub Actions — Java security checks](https://github.com/ahsokatyan/infosec1/actions/runs/45627045149)
